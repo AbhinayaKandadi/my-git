@@ -54,4 +54,4 @@ while tries > 0:
         print("You guessed right!")
         break
 else:
-    print(f"You ran out of tries. Number was {secretcode}")
+    print(f"You ran out of tries!!! Number was {secretcode}")
